@@ -1,5 +1,5 @@
 # Object-Detection-with-YOLOv11
-This repo is made to log information and note down the process of setting up and using the YOLO image detection model from ultralytics. It also serves as a backup for my own projectsl and an example format for how a working training setup looks like. <br>
+This repo is made to log information and note down the process of setting up and using the YOLO image detection model from ultralytics. It also serves as a backup for my own projects and an example format for how a working training setup looks like. <br>
 Instruction docs located in this file below. 
 <br>
 <br>
