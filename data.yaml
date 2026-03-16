@@ -1,10 +1,12 @@
-path: "C:/Users/thuta/Downloads/Uni/Senior Project/Image Model/dataset" #change this to your own config location
+# YOLOv11 dataset config
+path: C:\Users\lenovo\Desktop\OD\dataset
 
 train: images/train
-val: images/val
+val:   images/val
 
-nc: 3
-names: 
-  0: eraser
-  1: dice
-  2: ball
+nc: 4
+names:
+  0: Bottle
+  1: Tin can
+  2: Dice
+  3: Ball
